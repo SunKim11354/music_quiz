@@ -1,0 +1,21 @@
+Classical Audio Quiz V3 — audio source and licensing review notes
+
+The following recordings were provided by the user from Wikimedia Commons. Verify each file description and license before publishing or distributing. Public-domain composition status does NOT establish recording rights.
+
+1. audio/beethoven_fur_elise.ogg
+   https://commons.wikimedia.org/wiki/File:FurElise.ogg
+   Performer: V. Gao; Commons file page indicated CC0.
+2. audio/beethoven_moonlight_1.ogg
+   https://commons.wikimedia.org/wiki/File:Moonlight_Sonata.ogg
+   Commons file page indicated public-domain status; may be MIDI-derived.
+3. audio/mozart_turkish_march.ogg
+   https://commons.wikimedia.org/wiki/File:Mozart-Marsz_turecki-(Romuald_Greiss).ogg
+   Performer: Romuald Greiss; Commons page indicated public-domain release.
+4. audio/chopin_nocturne_op9_2.ogg
+   https://commons.wikimedia.org/wiki/File:Chopin.Nocturne.Es-Dur.opus.9.2.ogg
+   Contributor: Membeth; Commons page indicated CC0.
+5. audio/bach_prelude_bwv846.ogg
+   https://commons.wikimedia.org/wiki/File:Kevin_MacLeod_-_J_S_Bach_Prelude_in_C_-_BWV_846.ogg
+   Performer/creator: Kevin MacLeod. Confirm license and attribution requirements on Commons file page before publication; this package does not assert CC0 for this file.
+
+The game loads only the current question's OGG file. The user must press Play; browsers prohibit unsolicited autoplay. 120-second limit applies to playback time counted in seconds.
