@@ -14,3 +14,87 @@ bach_air.mp3 <- Air.ogg
 
 Fur Elise MP3 preserved unchanged. Other recordings transcoded from supplied OGG/OGA to MP3 (128 kbps).
 Original online source URLs and full license statements were not supplied with these files. This list records file provenance, not a license grant.
+
+
+V5.6: 10 additional recordings
+Changes for every new recording: supplied OGG/OGA transcoded to MP3 at 128 kbps, with embedded source metadata copied; no trimming. Each converted recording retains the listed original license (share-alike where applicable).
+
+dvorak_new_world_2.mp3
+Original: Antonin_Dvorak_-_symphony_no._9_in_e_minor_'from_the_new_world',_op._95_-_ii._largo.ogg
+Source: https://commons.wikimedia.org/wiki/File:Antonin%20Dvorak%20-%20symphony%20no.%209%20in%20e%20minor%20%27from%20the%20new%20world%27%2C%20op.%2095%20-%20ii.%20largo.ogg
+Credit: Antonín Dvořák; recording supplied by Musopen (performer not specified on source page)
+License: Public-domain dedication by Musopen
+License URL: https://creativecommons.org/publicdomain/mark/1.0/
+Original metadata: {}
+
+chopin_fantaisie_impromptu.mp3
+Original: Chopin_Fantasie-Impromptu(Op.66).oga
+Source: https://commons.wikimedia.org/wiki/File:Chopin%20Fantasie-Impromptu%28Op.66%29.oga
+Credit: Frédéric Chopin; performed by Qoo
+License: CC BY-SA 2.5
+License URL: https://creativecommons.org/licenses/by-sa/2.5/
+Original metadata: {}
+
+debussy_clair_de_lune.mp3
+Original: Clair_de_lune_(Claude_Debussy)_Suite_bergamasque.ogg
+Source: https://commons.wikimedia.org/wiki/File:Clair%20de%20lune%20%28Claude%20Debussy%29%20Suite%20bergamasque.ogg
+Credit: Claude Debussy; piano: Laurens Goedhart; OGG encoding: akaniji
+License: CC BY 3.0
+License URL: https://creativecommons.org/licenses/by/3.0/
+Original metadata: {}
+
+liszt_liebestraum_3.mp3
+Original: Franz_Liszt_-_Liebestraum,_Ab_Major.ogg
+Source: https://commons.wikimedia.org/wiki/File:Franz%20Liszt%20-%20Liebestraum%2C%20Ab%20Major.ogg
+Credit: Franz Liszt; Al Goldstein collection / Pandora Music; attribution metadata retained below
+License: CC BY-SA 2.0
+License URL: https://creativecommons.org/licenses/by-sa/2.0/
+Original metadata: {}
+
+handel_hallelujah.mp3
+Original: Handel_-_messiah_-_44_hallelujah.ogg
+Source: https://commons.wikimedia.org/wiki/File:Handel%20-%20messiah%20-%2044%20hallelujah.ogg
+Credit: George Frideric Handel; MIT Concert Choir; conductor William C. Cutter
+License: CC BY-SA 2.0
+License URL: https://creativecommons.org/licenses/by-sa/2.0/
+Original metadata: {}
+
+bizet_habanera.mp3
+Original: Kevin_MacLeod_-_Georges_Bizet_Habanera.ogg
+Source: https://commons.wikimedia.org/wiki/File:Kevin%20MacLeod%20-%20Georges%20Bizet%20Habanera.ogg
+Credit: Georges Bizet; performance/production: Kevin MacLeod
+License: CC BY 3.0
+License URL: https://creativecommons.org/licenses/by/3.0/
+Original metadata: {}
+
+beethoven_symphony_5_1.mp3
+Original: Ludwig_van_Beethoven_-_symphony_no._5_in_c_minor,_op._67_-_i._allegro_con_brio.ogg
+Source: https://commons.wikimedia.org/wiki/File:Ludwig%20van%20Beethoven%20-%20symphony%20no.%205%20in%20c%20minor%2C%20op.%2067%20-%20i.%20allegro%20con%20brio.ogg
+Credit: Ludwig van Beethoven; Skidmore College orchestra / Musopen
+License: Public-domain dedication; credit retained
+License URL: https://creativecommons.org/publicdomain/mark/1.0/
+Original metadata: {}
+
+mozart_figaro_overture.mp3
+Original: Mozart,_The_Marriage_of_Figaro_(overture).ogg
+Source: https://commons.wikimedia.org/wiki/File:Mozart%2C%20The%20Marriage%20of%20Figaro%20%28overture%29.ogg
+Credit: Wolfgang Amadeus Mozart; Musopen Symphony / Musopen
+License: CC0 1.0
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Original metadata: {}
+
+strauss_blue_danube.mp3
+Original: Strauss,_An_der_schönen_blauen_Donau.ogg
+Source: https://commons.wikimedia.org/wiki/File:Strauss%2C%20An%20der%20sch%C3%B6nen%20blauen%20Donau.ogg
+Credit: Johann Strauss II; European Archive / Musopen
+License: CC0 1.0
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Original metadata: {}
+
+mozart_symphony_40_1.mp3
+Original: Wolfgang_Amadeus_Mozart_-_Symphony_40_g-moll_-_1._Molto_allegro.ogg
+Source: https://commons.wikimedia.org/wiki/File:Wolfgang%20Amadeus%20Mozart%20-%20Symphony%2040%20g-moll%20-%201.%20Molto%20allegro.ogg
+Credit: Wolfgang Amadeus Mozart; Fulda Symphonic Orchestra; conductor Simon Schindler
+License: EFF Open Audio License v1
+License URL: https://commons.wikimedia.org/wiki/Commons:EFF_Open_Audio_License
+Original metadata: {}

@@ -1,8 +1,7 @@
-# music_quiz — V5.5
+# music_quiz V5.6
 
-Upload this folder’s files to the root of the `music_quiz` repository.
-Enable GitHub Pages: main / root.
-Quiz URL: https://sunkim11354.github.io/music_quiz/
-Audio repository: https://sunkim11354.github.io/music_audio/
-All 11 MP3 files are included in the sibling music_audio folder.
-Playback logic is retained from V5.5; Chrome mobile playback has not been verified.
+21 tracks; 5 random questions per game; Korean/English; maximum listening time 120 seconds per question.
+Upload these files to the root of music_quiz. Audio files go to the root of music_audio.
+Quiz: https://sunkim11354.github.io/music_quiz/
+Audio credits: SOURCES.txt
+Playback logic is retained from the tested V5.5. V5.6 requires device testing after upload.
