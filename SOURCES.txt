@@ -98,3 +98,78 @@ Credit: Wolfgang Amadeus Mozart; Fulda Symphonic Orchestra; conductor Simon Schi
 License: EFF Open Audio License v1
 License URL: https://commons.wikimedia.org/wiki/Commons:EFF_Open_Audio_License
 Original metadata: {}
+
+
+V5.7: nine new recordings. OGG files converted to MP3 128 kbps; source metadata retained and no additional trimming. Flowers Waltz MP3 copied unchanged. Each recording retains its listed original license.
+
+grieg_mountain_king.mp3
+Original: Musopen_-_In_the_Hall_Of_The_Mountain_King.ogg
+Source: https://commons.wikimedia.org/wiki/File:Musopen_-_In_the_Hall_Of_The_Mountain_King.ogg
+Credit: Edvard Grieg; Czech National Symphony Orchestra / Musopen
+License: Public-domain dedication by Musopen
+License URL: https://creativecommons.org/publicdomain/mark/1.0/
+Original metadata: {}
+
+saint_saens_swan.mp3
+Original: JOHN_MICHEL_CELLO-SAINT_SAENS_CARNIVAL_OF_ANIMALS_THE_SWAN.ogg
+Source: https://commons.wikimedia.org/wiki/File:JOHN_MICHEL_CELLO-SAINT_SAENS_CARNIVAL_OF_ANIMALS_THE_SWAN.ogg
+Credit: Camille Saint-Saëns; cello: John Michel
+License: CC BY-SA 3.0
+License URL: https://creativecommons.org/licenses/by-sa/3.0/
+Original metadata: {}
+
+grieg_morning.mp3
+Original: Musopen_-_Morning.ogg
+Source: https://commons.wikimedia.org/wiki/File:Musopen_-_Morning.ogg
+Credit: Edvard Grieg; Czech National Symphony Orchestra / Musopen
+License: Public-domain dedication by Musopen
+License URL: https://creativecommons.org/publicdomain/mark/1.0/
+Original metadata: {}
+
+tchaikovsky_flowers_waltz.mp3
+Original: P.I._Tchaikovsky's_Waltz_of_the_Flowers_Performed_by_The_U.S._Army_Band,_c._2019.mp3
+Source: https://commons.wikimedia.org/wiki/File:P.I._Tchaikovsky%27s_Waltz_of_the_Flowers_Performed_by_The_U.S._Army_Band%2C_c._2019.mp3
+Credit: Pyotr Ilyich Tchaikovsky; United States Army Band, December 2019
+License: U.S. federal government work; public domain in USA
+License URL: https://commons.wikimedia.org/wiki/Template:PD-USGov-Military-Army
+Original metadata: {"encoder": "Lavf58.45.100"}
+
+mendelssohn_wedding_march.mp3
+Original: A_Midsummer_Night's_Dream_Op._61_Wedding_March_(Mendelssohn)_European_Archive.ogg
+Source: https://commons.wikimedia.org/wiki/File:A_Midsummer_Night%27s_Dream_Op._61_Wedding_March_%28Mendelssohn%29_European_Archive.ogg
+Credit: Felix Mendelssohn; European Archive / Musopen
+License: CC0 1.0
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Original metadata: {}
+
+schubert_unfinished_1.mp3
+Original: Schubert_Symphony_No._8_'Unfinished'_-_1-_Allegro_moderato_in_B_minor.ogg
+Source: https://commons.wikimedia.org/wiki/File:Schubert_Symphony_No._8_%27Unfinished%27_-_1-_Allegro_moderato_in_B_minor.ogg
+Credit: Franz Schubert; Fulda Symphonic Orchestra; embedded credits retained
+License: EFF Open Audio License v1
+License URL: https://commons.wikimedia.org/wiki/Commons:EFF_Open_Audio_License
+Original metadata: {}
+
+schubert_ave_maria.mp3
+Original: Schubert's_Ave_Maria,_D.839_(accordion_orchestra)_-_Paul_De_Bra.ogg
+Source: https://commons.wikimedia.org/wiki/File:Schubert%27s_Ave_Maria%2C_D.839_%28accordion_orchestra%29_-_Paul_De_Bra.ogg
+Credit: Franz Schubert; arrangement and recording: Paul De Bra
+License: CC BY 4.0
+License URL: https://creativecommons.org/licenses/by/4.0/
+Original metadata: {}
+
+bach_toccata_intro.mp3
+Original: BWV-565-intro.ogg
+Source: https://commons.wikimedia.org/wiki/File:BWV-565-intro.ogg
+Credit: Traditionally J.S. Bach; Cor anglais 16 at English Wikipedia; Flentrop organ, Oberlin Conservatory
+License: CC BY-SA 3.0
+License URL: https://creativecommons.org/licenses/by-sa/3.0/
+Original metadata: {}
+
+beethoven_ode_to_joy.mp3
+Original: Ode_to_Joy.ogg
+Source: https://commons.wikimedia.org/wiki/File:Ode_to_Joy.ogg
+Credit: Ludwig van Beethoven; Mutopia MIDI rendered to OGG by Raul654
+License: Public domain as marked on source page
+License URL: https://creativecommons.org/publicdomain/mark/1.0/
+Original metadata: {}
